@@ -11,8 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Ajith </span>
             from <span className="blue"> Chennai, Tamil Nadu.</span>
             <br />
-            I have completed MSc in computer science at Anna University
-            Tiruchirapalli.
+            I have completed MSc in computer science at Bharathidhasan
+            University Tiruchirapalli.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -1,3 +1,5 @@
+/* app.css */
+
 .App {
   text-align: center;
 }
@@ -14,18 +16,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #15263a; /* Dark blue background */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #e0e0e0; /* Light grey text for good contrast */
 }
 
 .App-link {
-  color: #61dafb;
+  color: #2196f3; /* Bright blue for links */
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +38,5 @@
     transform: rotate(360deg);
   }
 }
+
+/* index.css */
